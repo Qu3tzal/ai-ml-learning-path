@@ -9,6 +9,7 @@ The following courses have their slide, notes, homework, and/or videos available
 - [CS230: Deep Learning](http://cs230.stanford.edu/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
+- [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## Books
 - **Free** [*The Hundred-Page Machine Learning Book*](http://themlbook.com/wiki/doku.php)
