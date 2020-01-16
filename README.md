@@ -11,6 +11,7 @@ The following courses have their slide, notes, homework, and/or videos available
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 
 ## Books
+- **Free** [*The Hundred-Page Machine Learning Book*](http://themlbook.com/wiki/doku.php)
 - *Hands-On Machine Learning  with Scikit-Learn & TensorFlow*, the [associated Github repository](https://github.com/ageron/handson-ml) has tutorials as Jupyter notebooks.
 - *Deep Learning with Python*, by the creator of Keras
 
