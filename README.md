@@ -12,7 +12,7 @@ The following courses have their slide, notes, homework, and/or videos available
 - [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## Online Courses
-- [Fast.ai](https://fast.ai)
+- [Fast.ai](https://course.fast.ai)
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 
 ## Books
