@@ -10,6 +10,7 @@ The following courses have their slide, notes, homework, and/or videos available
 - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 - [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [CS246: Mining of Massive Datasets](http://web.stanford.edu/class/cs246/)
 
 ## Online Courses
 - [Fast.ai](https://course.fast.ai)
@@ -40,6 +41,9 @@ Learn deep learning with these:
 If you want to learn reinforcement learning, this one is the reference:
 - **🎁 Free** [Reinforcement Learning, 2nd Edition](http://incompleteideas.net/book/the-book.html)
 
+For data mining specific methods:
+- **🎁 Free** [Mining of Massive Datasets](http://www.mmds.org/)
+
 ## Papers
 To get into Deep Reinforcement Learning, this review is nice:
 - [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)
@@ -50,9 +54,6 @@ Use the [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) to find new paper
 - [Deep Learning: Our Miraculous Year 1990-1991](http://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html)
 - [Better Language Models
 and Their Implications](https://openai.com/blog/better-language-models/)
-- []()
-- []()
-- []()
 - [Emergent Tool Use from
 Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 
