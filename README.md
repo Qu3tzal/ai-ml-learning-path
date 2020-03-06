@@ -11,6 +11,7 @@ The following courses have their slide, notes, homework, and/or videos available
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 - [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [CS246: Mining of Massive Datasets](http://web.stanford.edu/class/cs246/)
+- [Stat212b: Topics Course on Deep Learning](https://joanbruna.github.io/stat212b/)
 
 ## Online Courses
 - [Fast.ai](https://course.fast.ai)
